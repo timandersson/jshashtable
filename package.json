@@ -2,7 +2,7 @@
   "private": true,
   "name": "jshashtable",
   "author": "Tim Down",
-  "version": "3.0",
+  "version": "3.0.0",
   "description": "A standalone JavaScript implementation of hash table with arbitrary keys",
   "main": "hashtable.js",
   "license": "Apache-2.0",
