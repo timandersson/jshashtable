@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "jshashtable",
+  "author": "Tim Down",
+  "version": "3.0",
+  "description": "A standalone JavaScript implementation of hash table with arbitrary keys",
+  "main": "hashtable.js",
+  "license": "Apache-2.0",
+  "homepage": "http://www.timdown.co.uk/jshashtable/"
+}
